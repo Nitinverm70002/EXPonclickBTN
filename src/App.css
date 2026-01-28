@@ -1,0 +1,9 @@
+.center {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.reset-btn {
+  margin-left: 10px;
+}
