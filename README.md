@@ -1,16 +1,29 @@
-# React + Vite
+# Material UI OnClick Button Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React project demonstrating the use of **Material UI buttons** with `onClick` functionality and state management using React Hooks.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Uses **Material UI (MUI)** Button component
+- Demonstrates `onClick` event handling
+- Button gets **disabled after click**
+- Reset button to **enable the button again**
+- Clean and beginner-friendly code
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
+- React
+- Material UI (@mui/material)
+- JavaScript (ES6)
+- CSS
 
-## Expanding the ESLint configuration
+## Output
+<img width="1439" height="761" alt="Screenshot 2026-01-28 at 10 49 42 AM" src="https://github.com/user-attachments/assets/57e885cb-a9c6-44c0-929c-532c9b64c05e" />
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Installation & Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/your-repo-name.git
