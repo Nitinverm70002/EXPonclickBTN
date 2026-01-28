@@ -2,16 +2,12 @@
 
 This is a simple React project demonstrating the use of **Material UI buttons** with `onClick` functionality and state management using React Hooks.
 
----
-
 ## Features
 - Uses **Material UI (MUI)** Button component
 - Demonstrates `onClick` event handling
 - Button gets **disabled after click**
 - Reset button to **enable the button again**
 - Clean and beginner-friendly code
-
----
 
 ## Technologies Used
 - React
